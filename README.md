@@ -19,5 +19,5 @@ Kindly do these things:
 
 ```
 > sbt reload update compile test akka-deploy
-> sh akka/bookAkka
+> sh akka/bootAkka
 ```
